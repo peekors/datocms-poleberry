@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fluttercrew.poleberry",
+      "sha256_cert_fingerprints": [
+        "DA:45:29:AE:65:1A:89:C6:D7:F6:3E:FA:B6:21:B3:84:EB:C0:7A:24:88:28:E4:B9:1A:8D:A4:CF:1C:20:FE:30"
+      ]
+    }
+  }
+]
